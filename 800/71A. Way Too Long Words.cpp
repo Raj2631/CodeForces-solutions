@@ -1,3 +1,5 @@
+// Strings.
+
 #include <iostream>
 
 using namespace std;
